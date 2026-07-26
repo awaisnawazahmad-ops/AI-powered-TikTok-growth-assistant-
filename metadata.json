@@ -1,0 +1,6 @@
+{
+  "name": "TikTok AI Growth Studio",
+  "description": "AI-powered TikTok growth planner, viral script writer, hook generator, hashtag optimizer, and account auditor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
