@@ -1,14 +1,14 @@
 import React, { useState } from 'react';
-import { Header } from './components/Header';
-import { Navigation, ActiveTab } from './components/Navigation';
-import { GrowthChat } from './components/GrowthChat';
-import { ViralHookScriptWriter } from './components/ViralHookScriptWriter';
-import { GrowthRoadmap } from './components/GrowthRoadmap';
-import { HashtagGenerator } from './components/HashtagGenerator';
-import { AccountAuditor } from './components/AccountAuditor';
-import { BioGenerator } from './components/BioGenerator';
-import { CreatorCalculator } from './components/CreatorCalculator';
-import { TrendingNow } from './components/TrendingNow';
+import { Header } from './Header';
+import { Navigation, ActiveTab } from './Navigation';
+import { GrowthChat } from './GrowthChat';
+import { ViralHookScriptWriter } from './ViralHookScriptWriter';
+import { GrowthRoadmap } from './GrowthRoadmap';
+import { HashtagGenerator } from './HashtagGenerator';
+import { AccountAuditor } from './AccountAuditor';
+import { BioGenerator } from './BioGenerator';
+import { CreatorCalculator } from './CreatorCalculator';
+import { TrendingNow } from './TrendingNow';
 import { LanguageMode } from './types';
 import { Flame, Sparkles, Zap, Heart } from 'lucide-react';
 
